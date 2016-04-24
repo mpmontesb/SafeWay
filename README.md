@@ -7,3 +7,5 @@ Arduino Sensor Node contains the codes of the sensors that catch data in real ti
 RPI Web Server gets the data on earth of the sensors and send it to the app.
 
 Android Bluetooth contains the code of the Android app via bluetooth.
+
+GeoWeather contains the code of the Android app via internet.
