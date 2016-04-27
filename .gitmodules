@@ -1,0 +1,3 @@
+[submodule "GeoWeather"]
+	path = GeoWeather
+	url = https://gitlab.com/aliceresponde/GeoWeather.git
